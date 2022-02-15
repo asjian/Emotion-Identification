@@ -1,2 +1,2 @@
 # Emotion-Identification
-Identify Emotions of in Reddit Posts.
+Identify Emotions in Reddit Posts - happy, neutral, sad
